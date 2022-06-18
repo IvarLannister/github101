@@ -1,18 +1,30 @@
-*
-{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
-.hello-1
-{
+body {
     background: lightgrey;
-    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
 }
 
-.section-1 
-{
-    background-position: center;
+.div-body {
+    width: 800px;
+    text-align: center;
+    margin: 30px auto;
 }
+
+.all-buttons {
+    font-size: 1.5rem;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+ .all-buttons:hover {
+    background: lightsalmon;
+ }
+
+.first-1 {
+    margin-right: 15px;
+}
+
+
+.first-2 {
+    margin-right: 15px;
+}
+
